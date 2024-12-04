@@ -13,7 +13,7 @@ Answer the following questions in the provided markdown file before turning in t
     <body>
     </body>
     </head>
-</html
+  </html>
 
 ```
 
