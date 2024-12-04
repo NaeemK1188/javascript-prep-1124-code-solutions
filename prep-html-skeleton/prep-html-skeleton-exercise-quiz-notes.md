@@ -6,11 +6,24 @@ Answer the following questions in the provided markdown file before turning in t
 
 - What tags are necessary for a complete HTML Skeleton?
 
+```html
+<DOCTYPE html>
+  <html>
+    <head>
+      <body></body>
+    </head></html
+></DOCTYPE>
+```
+
 - What type of content belongs within the `<head>` of an HTML document?
+  Any metadata elements that are not on the webpage, such as: <style>, <title>, link to a webpage
+  or any sort of multimedia(image, audio, and text)
 
 - What type of content belongs within the `<body>` of an HTML document?
+  contents of the webpage and link to a .js files or js code
 
 - Where must the `DOCTYPE` declaration appear in a valid HTML document?
+  at the very top of the html file
 
 ## Notes
 
